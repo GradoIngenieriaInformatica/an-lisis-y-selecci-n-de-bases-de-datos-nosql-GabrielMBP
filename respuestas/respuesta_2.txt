@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+Clave-Valor | Es un modelo muy rápido, simple. Es el ideal para buscar un ID de sesión (clave) y validar el acceso en milisegundos.

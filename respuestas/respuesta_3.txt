@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+Columnar | Su alto rendimiento para analítica, que es justo lo que requiere agrupar, sumar y procesar logs masivos por periodos de tiempo.

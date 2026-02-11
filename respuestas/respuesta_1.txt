@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+Grafo | Son excelentes para relaciones, lo cual es exactamente lo que se necesita para vincular ágilmente usuarios, productos y compras.
